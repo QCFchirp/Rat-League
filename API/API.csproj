@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Camille.Enums" Version="3.0.0-nightly-2021-07-15-6c4b797b48" />
+    <PackageReference Include="Camille.RiotGames" Version="3.0.0-nightly-2021-07-15-6c4b797b48" />
+    <PackageReference Include="MingweiSamuel.Camille" Version="2.8.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
